@@ -3,6 +3,8 @@ title: "Projects"
 permalink: "/projects/"
 layout: page
 ---
+
+# Projects
 My GitHub repository for these projects is [here](https://github.com/nonye-o/nonye-o.github.io/).
 
 ## Python Neural Network from Scratch
