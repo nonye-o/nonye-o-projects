@@ -3,7 +3,7 @@ layout: default
 title: "About"
 ---
 # Nonye Okoma
-I graduated with an MSci in Mathematics in July 2024 from Lancaster University. Here is my [CV](Gregory_Okoma_CV_PhD.pdf).
+I graduated with an MSci in Mathematics in July 2024 from Lancaster University. Here is my [CV](Gregory_Okoma_CV.pdf).
 
 # Projects
 My GitHub repository for these projects is [here](https://github.com/nonye-o/nonye-o.github.io/).
